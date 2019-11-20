@@ -1,0 +1,15 @@
+.block1{
+	width:200px;
+	height:200px;
+	background-color:red;
+}
+.block1:hover{
+	width:300px;
+	background-color:green;
+}
+p{
+	color:red;
+}
+p:hover{
+	color: green;
+}
